@@ -37,11 +37,48 @@ This project is a fun personality quiz that matches users to a season based on t
 
 
 ***
-#### Project 2 Title
- - image
- - write up
+#### Excel Budget Tracker
+![Excel Budget Tracker]
+
+Initial project idea: 
+I came up with this idea while I was considering my New Year's resolutions. One of my goals for 2025 was to stay on top of budgeting and to track my spending. 
+
+Tools I used: 
+Microsoft Excel.
+
+Challenges I faced:
+The main challenge I faced was remembering which statements apply to which commands. I was able to overcome this with practice and gaining more experience. 
+
+Other Resources: 
+Aside from collaborating with classmates, the other resources I used were any lectures or exercises provided for the class.
+
+Result:
+My goal was to find an organized and efficient way to keep track of my spending and to make budgeting easier, which I was successful in doing through Excel.
+
+Summary:
+This project is an Excel-based budget tracker designed to help monitor spending and support financial goals. Inspired by a New Year's resolution, it offers an organized and efficient approach to personal budgeting.
+
 
 ***
-#### Project 3 Title
- - image
- - write up
+#### Excel Grade Calculator 
+![Excel Grade Calculator]
+
+Initial project idea: 
+I thought of this project while attempting to find a way to keep track of my grades throughout the school year and to always know how well I am performing in all my classes. 
+
+Tools I used: 
+The tool I used for this project was Microsoft Excel
+
+Challenges I faced:
+The challenge I faced while completing this project was calculating the weighted grade. I was able to solve this issue with the help of my classmates.
+
+Other Resources: 
+The main resources I used were those provided by my instructor.
+
+Result:
+With this project, my aim was to provide a resource for myself to use throughout the school year to help keep myself on track.  
+
+Summary:
+This project is an Excel-based grade calculator designed to help track academic 
+performance throughout the school year. It allows for easy monitoring of grades and helps students stay organized and on track.
+
