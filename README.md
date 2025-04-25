@@ -12,7 +12,7 @@ Loyola University, MD
 ### Projects
 
 #### Personality Test: What Type of Season Are You? 
-![What Type of Season Are You?](file:///Users/carolinedrennen/Library/Mobile%20Documents/.Trash/Screenshot%202025-04-23%20at%2012.26.36%E2%80%AFAM.png) 
+![What Type of Season Are You?](/Users/carolinedrennen/Library/Mobile%20Documents/.Trash/Screenshot%202025-04-23%20at%2012.26.36%E2%80%AFAM.png) 
 
 Initial project idea: 
 I came up with this project while I was reflecting on the season changing from winter to spring. 
