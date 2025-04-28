@@ -1,5 +1,5 @@
 # Journalist
-
+![Image](https://github.com/user-attachments/assets/4a16ab9e-0925-4df3-a9ee-3dff31a799c0)
 ### About Me 
 Hello! I am an experienced writer and Communications professional with over 2 years of proven expertise in Journalism and Writing. 
 With skills in publishing, reporting, and customer service, I am able to craft compelling narratives, manage editorial workflows, and achieve increased reader engagement and brand visibility. I am adept at using WordPress, Google Analytics, and Adobe Creative Suite.
@@ -8,7 +8,7 @@ You can find me on [LinkedIn](www.linkedin.com/in/carolinedrennen) or contact me
 ### Education 
 Working towards B.A. in Communications
 Loyola University, MD
-
+![Image](https://github.com/user-attachments/assets/50911aff-8441-4137-ad6c-4f1693bb3885)
 ### Projects
 
 #### Personality Test: What Type of Season Are You? 
