@@ -38,7 +38,7 @@ This project is a fun personality quiz that matches users to a season based on t
 
 ***
 #### Excel Budget Tracker
-![Excel Budget Tracker](file:///Users/carolinedrennen/Library/Mobile%20Documents/.Trash/Screenshot%202025-04-23%20at%2012.23.12%E2%80%AFAM.png)
+<img width="1380" alt="Image" src="https://github.com/user-attachments/assets/2311cd30-3752-487a-a8ea-891de2ab70d8" />
 
 Initial project idea: 
 I came up with this idea while I was considering my New Year's resolutions. One of my goals for 2025 was to stay on top of budgeting and to track my spending. 
@@ -61,7 +61,7 @@ This project is an Excel-based budget tracker designed to help monitor spending 
 
 ***
 #### Excel Grade Calculator 
-![Excel Grade Calculator](file:///Users/carolinedrennen/Library/Mobile%20Documents/.Trash/Screenshot%202025-04-23%20at%2012.22.41%E2%80%AFAM.png)
+<img width="1373" alt="Image" src="https://github.com/user-attachments/assets/8b179b32-aa3d-44d5-be58-72593987ee55" /> 
 
 Initial project idea: 
 I thought of this project while attempting to find a way to keep track of my grades throughout the school year and to always know how well I am performing in all my classes. 
